@@ -1,6 +1,6 @@
 # Odin-Project-Assignment
 
-I decided to learn CSS and Javascript for personal development and to get a better understanding of my field.
+I decided to learn CSS and JavaScript for personal development and to get a better understanding of my field.
 This project is a HTML/CSS exercise given by The Odin Project. 
 I was asked to look at a photo of a website and try to recreate it using everything I had learned throughout the course.
 
