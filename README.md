@@ -4,7 +4,7 @@ I decided to learn CSS and JavaScript for personal development and to get a bett
 This project is a HTML/CSS exercise given by The Odin Project. 
 I was asked to look at a photo of a website and try to recreate it using everything I had learned throughout the course.
 
-<p>The avatar in the upper right corner was created with the avatar maker: https://illustmaker.abi-station.com/index_en.shtml</p>
+<p>The avatar in the upper left corner was created with the avatar maker: https://illustmaker.abi-station.com/index_en.shtml</p>
 
 <p>All images of this project were taken from https://pixabay.com/da/</p>
 
